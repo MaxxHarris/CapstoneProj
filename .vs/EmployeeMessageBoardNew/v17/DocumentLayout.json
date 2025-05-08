@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\data\\migrations\\20250508144941_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:data\\migrations\\20250508144941_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\employeemessageboardnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:employeemessageboardnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|c:\\users\\quive\\source\\repos\\employeemessageboardnew\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0986C8CD-A0FE-4FA5-9F49-D3847CAF75E7}|EmployeeMessageBoardNew.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\20250508144941_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250508144941_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:43:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:42:37.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:37:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:34:45.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:23:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAADwvw4BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:08:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250508144941_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\20250508144941_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250508144941_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\20250508144941_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250508144941_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAADwvxEBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:08:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAADwvwsBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:08:19.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:04:07.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:50:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:01:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAKEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-08T15:09:32.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeMessageBoardNew",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\EmployeeMessageBoardNew.csproj",
+              "RelativeDocumentMoniker": "EmployeeMessageBoardNew.csproj",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\EmployeeMessageBoardNew.csproj",
+              "RelativeToolTip": "EmployeeMessageBoardNew.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T15:08:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:02:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T15:08:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:08:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250508144941_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\20250508144941_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250508144941_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\quive\\source\\repos\\EmployeeMessageBoardNew\\Data\\Migrations\\20250508144941_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250508144941_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:49:41.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

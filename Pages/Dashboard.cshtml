@@ -1,0 +1,29 @@
+﻿@page
+@model EmployeeMessageBoardNew.Pages.DashboardModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1 class="mb-4">Welcome to Cool Jam Kicks Messaging Dashboard</h1>
+
+<div class="row">
+    <div class="col-md-8">
+        <h3>Recent Messages</h3>
+        <ul class="list-group">
+            <li class="list-group-item">[JohnDoe] Hello team! Let's have a great week.</li>
+            <li class="list-group-item">[JaneSmith] Reminder: Friday is casual wear day.</li>
+            <li class="list-group-item">[Admin] Please submit timesheets by 3 PM.</li>
+        </ul>
+    </div>
+
+    <div class="col-md-4">
+        <h3>Post a New Message</h3>
+        <form>
+            <div class="form-group mb-2">
+                <label for="messageContent">Message</label>
+                <textarea class="form-control" id="messageContent" rows="3" placeholder="Type your message..."></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Post</button>
+        </form>
+    </div>
+</div>
